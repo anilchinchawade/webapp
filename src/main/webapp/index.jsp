@@ -9,5 +9,6 @@
     </p>
 
     <a href="test.jsp">Test Page</a>
+    <p>A line is added after elastic ip allocation</p>
   </body>
 </html>
